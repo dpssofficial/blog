@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dpss-blog.netlify.com"
 languageCode = "en-us"
 title = "DPSS Blog"
 theme = "vienna"
