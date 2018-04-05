@@ -8,8 +8,8 @@ copyright = "&copy; DPS Sonepat"
 [params]
     # Social accounts. Link to these accounts are displayed in the header and
     # footer.
-    twitter = "Your Twitter username"
-    facebook = "Your Facebook username"
+    twitter = "dpssofficial"
+    facebook = "dpssnp"
     # github = "Your GitHub username"
     # gitlab = "Your GitLab username"
     # linkedin = "Your LinkedIn username"
@@ -20,14 +20,14 @@ copyright = "&copy; DPS Sonepat"
     # keybase = "Your keybase.io username"
     # instagram = "Your Instagram username"
     # Disqus shortname
-    disqus = "Your disqus shortname"
+    # disqus = "Your disqus shortname"
     # Google Analytics API key.
     # ga_api_key = "Your Google Analytics tracking id"
     # Mixpanel API key.
     # mixpanel_api_key = "Your Mixpanel API key"
     author = "DPS Sonepat"
-    avatar = "/path/to/avatar"
-    contact = "www.dps.in"
+    avatar = "/images/uploads/cover-post.jpeg"
+    contact = "http://www.dps.in"
     bio = "DPS Sonepat under the aegis of the Delhi Public School Society stands for excellence and quality in education."
     # Short subtitle/tagline. This is displayed in the header.
     subtitle = "Official DPS Sonepat Blog"
