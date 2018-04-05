@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "DPSS Blog"
+theme = "vienna"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; DPS Sonepat"
 
