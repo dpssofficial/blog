@@ -1,0 +1,34 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "DPSS Blog"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; DPS Sonepat"
+
+[params]
+    # Social accounts. Link to these accounts are displayed in the header and
+    # footer.
+    twitter = "Your Twitter username"
+    facebook = "Your Facebook username"
+    # github = "Your GitHub username"
+    # gitlab = "Your GitLab username"
+    # linkedin = "Your LinkedIn username"
+    # googleplus = "Your Google+ user id"
+    # reddit = "Your Reddit username"
+    # hackernews = "Your Hacker News username"
+    # stackoverflow = "Your Stackoverflow user id (number)"
+    # keybase = "Your keybase.io username"
+    # instagram = "Your Instagram username"
+    # Disqus shortname
+    disqus = "Your disqus shortname"
+    # Google Analytics API key.
+    # ga_api_key = "Your Google Analytics tracking id"
+    # Mixpanel API key.
+    # mixpanel_api_key = "Your Mixpanel API key"
+    author = "DPS Sonepat"
+    avatar = "/path/to/avatar"
+    contact = "www.dps.in"
+    bio = "DPS Sonepat under the aegis of the Delhi Public School Society stands for excellence and quality in education."
+    # Short subtitle/tagline. This is displayed in the header.
+    subtitle = "Official DPS Sonepat Blog"
+    themecolor = "#161616" # Defines the tab color in Chrome for Android.
+    noshowdate = true # This will ensure that the date is not printed
